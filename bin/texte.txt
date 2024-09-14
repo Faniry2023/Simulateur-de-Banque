@@ -1,0 +1,28 @@
+#############--HISTORIQUE--###############
+Depot:
+-----
+Vous avez fait un depot de (solde) le (date)
+Votre solde est maintenant de (solde)
+
+Retrait:
+-------
+Vous avez fait un retrait de (solde) le (date)
+Votre solde est maintenant de (solde)
+
+DepotRetrait
+-----------
+Vous venez de faire un depot de (solde) dans votre compte courant
+venant de votre compte epargne le (date)
+Votre solde est maintenant de Courant : (solde)
+			      Epargne : (Solde)
+
+RetraitDepot :
+------------
+Vous venez de faire un retrai de (solde) dans votre compte courant
+qui sera deposer dans votre compte epargne le (date)
+Votre solde est maintenant de Courant : (solde)
+			      Epargne : (Solde)
+Transaction :
+-------------
+Vous avez transferé (solde) à (nomCclient) le (date)
+Il vous reste (solde)

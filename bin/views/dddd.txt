@@ -1,0 +1,7 @@
+
+		/*btnClient.addActionListener((ActionListener) new ActionListener(){
+			public void actionPerformed(ActionEvent event){
+				temps = new Thread(new Traitement());
+				temps.start();
+			}
+		});*/
